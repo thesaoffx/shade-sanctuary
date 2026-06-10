@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://shadesanctuary.com.au/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://shadesanctuary.com.au/assets/img/fence-driveway-1600.jpg</image:loc>
+      <image:title>Colorbond fence and gate beside a driveway, Adelaide</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shadesanctuary.com.au/assets/img/fence-modern-home-666.jpg</image:loc>
+      <image:title>Black Colorbond fence at a modern two-storey Adelaide home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shadesanctuary.com.au/assets/img/fence-long-run-1054.jpg</image:loc>
+      <image:title>Long run of Colorbond boundary fencing in Adelaide</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shadesanctuary.com.au/assets/img/fence-two-tone-800.jpg</image:loc>
+      <image:title>Two-tone Colorbond fence in sage green and dark grey</image:title>
+    </image:image>
+  </url>
+</urlset>
